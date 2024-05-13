@@ -1,0 +1,9 @@
+$font-families:Helvetica, Arial, sans-serif;
+$box-shadow:10px 15px 0 0;
+
+.selector{
+  font-family: $font-families;
+}
+.another-selector{
+  box-shadow: $box-shadow grey;
+}
